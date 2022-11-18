@@ -39,4 +39,5 @@
   </a>
 </div>
 
-![snake gif](https://github.com/MariaClaraAmorim/Maria_Clara_Amorim/blob/70d6852a98cea516cc2ba46ebc15ce4019c5de79/github-contribution-grid-snake.svg)
+![snake gif]
+(https://github.com/MariaClaraAmorim/MariaClaraAmorim/blob/output/github-contribution-grid-snake.gif)
