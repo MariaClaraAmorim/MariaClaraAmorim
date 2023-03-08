@@ -3,13 +3,13 @@
 </h1>
 
   <p align="center">
-  At this moment, attending high school integrated to Computer Technician course, at the Federal Institute of Bahia (IFBA) - Campus Barreiras and i work as a Front-End develop 🐞.
+ Graduated in the technical course in Informatics, at the Federal Institute of Bahia (IFBA) - Campus Barreiras. I currently work with Front-End development🐞.
   </p>
 
-<div align="center" valign="top"><br>
+<!-- <div align="center" valign="top"><br> -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() -->
 
 </div>
 
@@ -35,7 +35,7 @@
 <div align="center">
   <a href="https://github.com/MariaClaraAmorim">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariaClaraAmorim&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraAmorim&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraAmorim&theme=dracula&hide_border=false&&layout=compact" />
   </a>
 </div>
 
